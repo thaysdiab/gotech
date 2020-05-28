@@ -165,7 +165,7 @@ h2 {
 
 #img-two-people{
     width: 454px;
-height: 391px;
+    height: 391px;
 
 }
 #img-one-people{
@@ -178,10 +178,10 @@ height: 391px;
 
 .know_more {
 color: #FFFFFF;
-        background: rgb(99,98,215);
-        background: linear-gradient(90deg, rgba(99,98,215,1) 0%, rgba(252,142,237,1) 100%);
-        border-radius: 5px;
-        font-size: 15px;
+    background: rgb(99,98,215);
+    background: linear-gradient(90deg, rgba(99,98,215,1) 0%, rgba(252,142,237,1) 100%);
+    border-radius: 5px;
+    font-size: 15px;
 }
 
 #help article {
@@ -218,8 +218,8 @@ article p{
 
 #facing-problem{
     width: 1918px;
-height: 900px;
-margin-top: 125px;
+    height: 900px;
+    margin-top: 125px;
 }
 
 #background-light-blue{
@@ -231,35 +231,70 @@ margin-top: 125px;
 
 #background-light{
     width: 1514px;
-height: 820px;
-top: 2277px;
-left: 204px;
-position: absolute;
+    height: 820px;
+    top: 2277px;
+    left: 204px;
+    position: absolute;
 
 }
 
 #airplane-paper{
     top: 2612px;
-left: 1202px;
-width: 256px;
-height: 193px;
-transform: matrix(0.87, -0.5, 0.5, 0.87, 15, 56);
-position: absolute;
+    left: 1117px;
+    width: 256px;
+    height: 193px;
+    transform: matrix(0.87, -0.5, 0.5, 0.87, 15, 56);
+    position: absolute;
 }
 
 #airplane-paper-one{
     top: 2606px;
-left: 1433px;
-width: 79px;
-height: 48px;
-transform: matrix(0.97, -0.26, 0.26, 0.97, -37, 7);
-position: absolute;
+    left: 1347px;
+    width: 79px;
+    height: 48px;
+    transform: matrix(0.97, -0.26, 0.26, 0.97, -37, 7);
+    position: absolute;
 }
 
 #background-plant{
     top: 2851px;
-    left: 326px;
+    left: 355px;
     width: 292px;
     height: 292px;
     position: absolute;
+}
+
+#background-purplebox{
+    top: 2870px;
+    left: 1256px;
+    width: 183px;
+    height: 274px;
+    position: absolute;
+}
+#background-woman{
+    top: 2861px;
+    left: 1427px;
+    width: 129px;
+    height: 292px;
+    position: absolute;
+}
+
+.title-problem{
+    top: 2408px;
+    left: 756px;
+    width: 410px;
+    height: 105px;
+    text-align: center;
+    letter-spacing: 0px;
+    color: #222222;
+    opacity: 1;
+    position: absolute;
+}
+
+#problem-box{
+    left: 285px;
+    width: 770px;
+    position: absolute;
+    margin-top: -35vh;
+
 }
