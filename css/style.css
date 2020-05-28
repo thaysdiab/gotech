@@ -1,0 +1,265 @@
+body{
+    width: 1920px;
+    height: 3875px;
+    margin: 0;
+}
+
+#nav-bar{
+    height: 95px;
+}
+h1 {
+    font-size: 46px;
+    margin-bottom: 17.5px;
+    font-weight: 500;
+    font-family: 'Poppins';
+    text-align: center;
+    letter-spacing: 0.46px;
+    color: #222222;
+    text-transform: capitalize;
+    opacity: 1;
+}
+
+h2:not(#our_work_h2) {
+    font-family: 'Poppins';
+    
+}
+span{
+    font-weight: lighter;
+    text-align: center;
+    letter-spacing: 0.46px;
+    color: #222222;
+    text-transform: capitalize;
+    opacity: 1;
+}
+#home {
+    width: 1890px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background: transparent url(/img/backgroung-group.png) no-repeat padding-box;
+    height: 599px;
+    margin-top: 5vh;
+    
+}
+
+.home_btn {
+    margin-top: 7vh;
+    margin-bottom: 72px;
+    
+}
+
+#home p {
+    max-width: 533px;
+    font-family: 'Poppins-regular';
+    margin: 0;
+    font-size: 14px;
+    letter-spacing: 0px;
+    color: #555555;
+    opacity: 1;
+    text-align: center;
+
+}
+
+#background-people{
+    top: 596px;
+    position: absolute;
+    display: flex;
+    justify-content: center;
+}
+    
+#background-transparent{
+    width: 1514px;
+    height: 675px;
+    position: absolute;
+}
+#background-blue{
+    background: transparent 0% 0% padding-box;
+    width: 1601px;
+    height: 64px;
+    opacity: 1;
+    margin-top: 41vh;
+    left: 161px;
+    position: static;    
+}
+
+#our_work_h2{
+    font-family: 'Poppins-semibold';
+    font-size: 36px;
+}
+
+#our_work_h2_2 {
+    font-weight: lighter;
+    font-family: 'Poppins-regular';
+}
+
+    
+.our_work, .know_more, .contact, .contact_ws{
+    border-radius: 5px;
+    background-color: #FFFFFF;
+    border-style: none;
+    text-decoration: none;
+    font-size: 15px;
+    font-weight: 800;
+    font-family: 'Poppins-medium';
+}
+
+.our_work, .contact, .page2_know_more, .contact_ws {
+    color: #FFFFFF;
+    background: rgb(99,98,215);
+    background: linear-gradient(90deg, rgba(99,98,215,1) 0%, rgba(252,142,237,1) 100%);
+    border-radius: 5px;
+    font-size: 15px;
+}
+
+.our_work {
+    text-align: center;
+    padding: 16.5px 30px;
+    font-size: 15px;
+    margin: 0 1.1rem;
+}
+
+h2 {
+    font-size: 36px;
+}
+
+#about p {
+    font-size: 15px;
+    width: 486px;
+    margin-top: 5vh;
+    margin-bottom: 28px;
+    font-family: 'Poppins-regular';
+    color: #555555;
+}
+
+#about img {
+    height: 391px;
+    width: 454px;
+    margin-left: 135px;
+}
+
+.know_more {
+    background-color: #FFFFFF;
+    border: 1px solid #A174DB;
+    padding: 16.5px 30px;
+    color: #A174DB;
+    font-weight: 800;
+    margin: 0 1.1rem;
+}
+
+.page2_know_more {
+    padding: 1em 2em;
+    border-style: none;
+}
+
+#about{
+    display: flex;
+    margin-top: 32em;
+    margin-left: 372px;
+    margin-bottom: 112px;
+}
+
+#about article {
+    max-width: 500px;
+}
+
+#img-two-people{
+    width: 454px;
+height: 391px;
+
+}
+#img-one-people{
+    width: 470px;
+    height: 417px;
+    top: 1676px;
+    margin-left: 331px;
+    margin-bottom: -44px;
+}
+
+.know_more {
+color: #FFFFFF;
+        background: rgb(99,98,215);
+        background: linear-gradient(90deg, rgba(99,98,215,1) 0%, rgba(252,142,237,1) 100%);
+        border-radius: 5px;
+        font-size: 15px;
+}
+
+#help article {
+    max-width: 500px;
+    margin-left: 135px;
+    display: inline-block;
+}
+
+#help-weare{
+    font-family: 'Poppins-regular';
+
+}
+
+#help-always{
+    font-family: 'Poppins-semibold';
+}
+
+#help-you{
+    font-family: 'Poppins-regular';
+}
+
+#help h2 {
+    margin-top: 96px;
+}
+
+article p{
+    font-size: 15px;
+    width: 486px;
+    margin-top: 5vh;
+    margin-bottom: 28px;
+    font-family: 'Poppins-regular';
+    color: #555555;
+}
+
+#facing-problem{
+    width: 1918px;
+height: 900px;
+margin-top: 125px;
+}
+
+#background-light-blue{
+    top: 2237px;
+    left: 2px;
+    width: 1918px;
+    height: 900px;
+}
+
+#background-light{
+    width: 1514px;
+height: 820px;
+top: 2277px;
+left: 204px;
+position: absolute;
+
+}
+
+#airplane-paper{
+    top: 2612px;
+left: 1202px;
+width: 256px;
+height: 193px;
+transform: matrix(0.87, -0.5, 0.5, 0.87, 15, 56);
+position: absolute;
+}
+
+#airplane-paper-one{
+    top: 2606px;
+left: 1433px;
+width: 79px;
+height: 48px;
+transform: matrix(0.97, -0.26, 0.26, 0.97, -37, 7);
+position: absolute;
+}
+
+#background-plant{
+    top: 2851px;
+    left: 326px;
+    width: 292px;
+    height: 292px;
+    position: absolute;
+}
