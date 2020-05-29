@@ -282,7 +282,7 @@ article p{
 .title-problem{
     top: 2408px;
     left: 756px;
-    width: 410px;
+    width: 367px;
     height: 105px;
     text-align: center;
     letter-spacing: 0px;
@@ -297,4 +297,153 @@ article p{
     position: absolute;
     margin-top: -35vh;
 
+}
+
+.small-logo{
+
+    right: 673px;
+    width: 142px;
+    height: 41px;
+    margin-top: -2vh;
+    position: absolute;
+}
+
+.footer_list {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.footer_list a {
+    display: block;
+    text-decoration: none;
+    color: #777777;
+    margin-bottom: 20px;
+    
+}
+
+.footer_logo > img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.footer_logo {
+   margin: 113px auto 68px auto;
+}
+
+
+.contact_footer, .footer_list2, .footer_list3, .adress{
+    margin-top: 8vh;
+}
+
+.footer_list h4{
+    font-size: 15px;
+    font-family: 'Poppins-medium';
+    color: #101c21;
+}
+
+.footer_list p, a{
+  font-size: 13px;
+  font-family: 'Poppins-regular';
+  color: #777777;
+}
+
+#icon-face{
+    top: 3490px;
+    left: 1262px;
+    width: 40px;
+    height: 40px;
+}
+
+#letter-face{
+    top: 3502px;
+    left: 1278px;
+    width: 8px;
+    height: 17px;
+    top: 3590px;
+    left: 1438px;
+    width: 8px;
+    height: 17px;
+    position: absolute;
+}
+
+#icon-skype{
+    top: 3490px;
+    left: 1322px;
+    width: 40px;
+    height: 40px;
+}
+
+#letter-skype{
+    top: 3591px;
+    left: 1477px;
+    width: 17px;
+    height: 17px;
+    position: absolute;
+}
+
+#icon-linkedin{
+    top: 3490px;
+    left: 1384px;
+    width: 40px;
+    height: 40px;
+}
+
+#letter-linkedin{
+    top: 3592px;
+    left: 1522px;
+    width: 16px;
+    height: 15px;
+    position: absolute;
+}
+#icon-insta{
+    top: 3490px;
+    left: 1447px;
+    width: 40px;
+    height: 40px;
+}
+
+#insta{
+    top: 3590px;
+    left: 1565px;
+    width: 17px;
+    height: 17px;
+    position: absolute;
+}
+
+#blue-two{
+    top: 3630px;
+    margin-left: 182px;
+    width: 1567px;
+    height: 312px;
+}
+
+#light-two{
+    top: 3762px;
+    left: 225px;
+    width: 1473px;
+    height: 242px;
+    position: absolute;
+}
+
+#man-plant{
+    top: 3820px;
+    left: 516px;
+    width: 323px;
+    height: 171px;
+    position: absolute;
+}
+
+#man{
+    top: 3746px;
+    left: 1237px;
+    width: 323px;
+    height: 245px;
+    position: absolute;
+}
+
+#copyright{
+    position: absolute;
+    left: 975px;
+    top: 397vh;
 }
